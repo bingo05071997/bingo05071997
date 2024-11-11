@@ -9,4 +9,4 @@ I know everything about nothing :)
 📗 I worked for Upwork - NASDAQ:UPWK
 💰 I worked for Deel - 12x 🦄 Startup
 📺 I worked for Restream - 🦄 Startup
-🏆 Fun fact: I'm back to engineering after 15 years of business career 😉
+🏆 Fun fact: I'm back to engineering after 12 years of business career 😉
