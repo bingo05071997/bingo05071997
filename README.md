@@ -1,5 +1,5 @@
 Hello I am bingo0507 and I am a senior Fullstack developer and AI developer.
-Being an IT engineer by education, I always worked in software development, electronic engineering, and businesses around information technologies.
+Being an IT engineer by education, I always worked in software development, electronic engineering, and businesses around information technologies (worked in e-commerce sectors).
 
 I know everything about nothing :)
 
@@ -9,4 +9,4 @@ I know everything about nothing :)
 📗 I worked for Upwork - NASDAQ:UPWK
 💰 I worked for Deel - 12x 🦄 Startup
 📺 I worked for Restream - 🦄 Startup
-🏆 Fun fact: I'm back to engineering after 12 years of business career 😉
+🏆 Fun fact: I'm back to engineering after 11 years of business career 😉
