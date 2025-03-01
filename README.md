@@ -1,9 +1,13 @@
-Hello I am a senior Fullstack developer and AI developer.
-Being an IT engineer by education, I always worked in software development, electronic engineering, and businesses around information technologies (worked in e-commerce, fintech, medical sectors).
+Senior Fullstack & AI Developer
 
-I know everything about nothing :)
+As an IT engineer with extensive experience in software development, electronic engineering, and information technology, I bring a robust skill set honed across diverse industries, including e-commerce, fintech, and healthcare. With a career spanning both technical and business domains, I offer a unique blend of engineering expertise and strategic insight.
 
-🔎 I’m looking to collaborate on commercial projects and startups
-❤️ I prefer React with Material UI on frontend and NestJS with MongoDB and/or PostgreSQL on backend
-💬 Feel free to ask me about everything
-🏆 Fun fact: I'm back to engineering after 11 years of business career 😉
+Current Focus: Actively seeking collaboration on commercial projects and startups.
+Technical Expertise:
+Frontend: React, Vue, Angular with Material UI
+Backend: Express, NestJS with MongoDB and/or PostgreSQL, Django/Flask/FastAPI, Java/Spring Boot
+Proficient in full-stack development, AI integration, and electronic engineering.
+Background: Transitioned back to engineering after 11 years in business leadership roles, bringing a wealth of cross-functional experience.
+Open to Discussion: I welcome inquiries about projects, technologies, or anything IT-related.
+
+Let’s connect to build innovative solutions together!
